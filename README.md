@@ -1,2 +1,2 @@
 # hopper
-3D jumping game
+3D jumping game built using Unity
